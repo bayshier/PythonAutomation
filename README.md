@@ -16,4 +16,4 @@ Android的不同语言的strings.xml和arrays.xml文件，导出到一份Excel�
 
 - excel2StringXml方法用于将一个excel文件导出为一个或过个strings.xml文件
 
-# 掘金 https://juejin.im/editor/drafts/5d3eabc76fb9a06aff5e4a37
+# 掘金 https://juejin.im/post/5d3eabc76fb9a06aff5e4a37
