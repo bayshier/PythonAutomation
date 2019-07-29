@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="premier_error_code">
+		<item>10001=사용자 이름 없습니다.</item>
+	</string-array>
+</resources>

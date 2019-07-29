@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="premier_error_code">
+        <!--普通网络错误-->
+        <item>-1000=服务正忙</item>
+        <item>-1001=解析异常</item>
+        <item>-1002=无网络,请再试一次</item>
+        <item>-1003=服务器正忙，请稍后重试</item>
+        <item>-1004=证书验证不正常</item>
+        <item>-1005=连接超时</item>
+
+        <item>-100=未实现</item>
+
+        <item>100=短信验证码无效</item>
+        <item>101=极限验证无效</item>
+        <item>102=支付密码无效</item>
+
+        <item>200=手机号已存在</item>
+        <item>201=账户不存在</item>
+        <item>202=账户密码不匹配</item>
+        <item>203=账户名已存在</item>
+        <item>204=手机号码格式异常</item>
+
+        <item>300=已抽过奖</item>
+
+        <item>400=奖品已无库存</item>
+        <item>401=抽奖还没开始</item>
+
+        <item>500=账户无助记词</item>
+        <item>501=地址创建中</item>
+        <item>502=账户已导入助记词</item>
+
+        <item>600=余额不足</item>
+
+        <item>700=未发现新的版本</item>
+
+        <item>1000=未授权访问</item>
+    </string-array>
+</resources>

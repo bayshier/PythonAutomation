@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">安卓</string>
+    <string name="pick_contact">拾取接触</string>
+    <string name="image_contact">基于接触URI的图像，最新Android上的最佳尺寸</string>
+    <string name="image_lookup">基于查找URI的图像，与联系人Uri相同</string>
+    <string name="image_photo">基于照片URI的图像，缩略图大小，通常为96x96px</string>
+    <string name="image_display_photo">基于显示照片URI的图像，可能为512x512px</string>
+    <string name="hint_number_entry">通过电话号码查找</string>
+    <string name="button_search_phone">发现</string>
+</resources>

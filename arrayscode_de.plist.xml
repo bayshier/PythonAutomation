@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="premier_error_code">
+		<item>10001=Nutzername existiert nicht</item>
+	</string-array>
+</resources>
